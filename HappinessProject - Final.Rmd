@@ -166,7 +166,7 @@ head(happiness_17_df)
 
 <br/>    
     
-### Following section shows scatter plots with regression line for different features vs Happiness Score:
+### Following section shows scatter plots with regression line for different features:
     
   These figures states that features have linear relationship with Happiness Score.  Additionally, higher the correction value of features, better is the linear relationship with Happiness Score.
         
