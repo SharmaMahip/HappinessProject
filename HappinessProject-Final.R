@@ -659,5 +659,3 @@
             
         rmse_result %>% arrange(RMSE)
 
-##### CONCLUSION #####
-
