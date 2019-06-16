@@ -131,7 +131,7 @@
             # Happiness Score is loosely correlated to Generosity.
     
     
-    ##### Following section shows scatter plots with regression line for different features vs Happiness Score : #####
+    ##### Following section shows scatter plots with regression line for different features : #####
     
         # These figures states that these features have linear relations with Happiness Score.  Additionally, higher the correction value of features, better is the linear relationship with Happiness Score
         
